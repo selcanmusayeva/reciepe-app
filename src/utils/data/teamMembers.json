@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Ismayil Ismayilov",
+      "education": "Bachelor of Science in Information Technology, ADA University",
+      "skills": ["C/C++", "Java", "Python", "HTML, CSS", "Linux", "SQL"],
+      "softSkills": ["Groupwork", "Analytical Skills"],
+      "experience": [
+        "Hour of Code Volunteer Educator",
+        "Principles of Information Systems Website Project",
+        "Data and Information Engineering",
+        "Robotics Project Algorithm Developer"
+      ],
+      "contact": {
+        "email": "iismayilov18008@ada.edu.az"
+      }
+    },
+    {
+      "name": "Seljan Musayeva",
+      "education": "Bachelor of Science in Information Technology, ADA University",
+      "skills": ["C/C++", "Java", "HTML, CSS", "Javascript", "SQL", "React"],
+      "softSkills": ["Groupwork", "Analytical Skills"],
+      "experience": [
+        "Created a drum kit app using javascript , when pushing the buttons we can “play the drums” ",
+        "Created a Tindog app using html, css, and bootstrap",
+        "Created a Shopping List app for adding items using React ",
+        "Created ShowCurrentTime app that shows the dynamic time using React "
+      ],
+      "contact": {
+        "email": "smusayeva17601@ada.edu.az"
+      }
+    },
+    {
+      "name": "Laman Aliyeva",
+      "education": "Bachelor of Science in Information Technology, ADA University",
+      "skills": ["C/C++", "Java", "HTML, CSS", "Javascript", "React", "Excel"],
+      "softSkills": [
+        "Critical Thinking",
+        "Creativity",
+        "Adaptability",
+        "Scheduling"
+      ],
+      "experience": [
+        "Library Management System: A console-based project to manage library book inventory, borrowers, and returns.",
+        "Expense Tracker: A Java-based application to track daily expenses and generate reports."
+      ],
+      "contact": {
+        "email": "smusayeva17601@ada.edu.az"
+      }
+    }
+  ]
+  
